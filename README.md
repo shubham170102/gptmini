@@ -1,6 +1,6 @@
 # GptMini
 
-This project showcases the development and training of two distinct language models: a simple Bigram model and a more complex GPT-inspired model. Both models are trained on a text corpus to predict the next character in a sequence, demonstrating fundamental concepts in natural language processing and deep learning.
+This project showcases the development and training of two distinct language models: a simple Bigram model and a more complex GPT-inspired model. Both models are trained on a text corpus to predict the next character in a sequence resembling Shakespeare's language, demonstrating fundamental concepts in natural language processing and deep learning.
 
 ## Project Structure
 
